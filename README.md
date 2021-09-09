@@ -1,3 +1,4 @@
+[![Board Status](https://msftph-dev.visualstudio.com/88b1f925-00b9-4c87-ba7f-9cd371440d3d/f00df255-cc52-49b0-b53f-d4668f7b70a6/_apis/work/boardbadge/542d56c5-a493-46d7-8a0f-9f583f3e2ecd)](https://msftph-dev.visualstudio.com/88b1f925-00b9-4c87-ba7f-9cd371440d3d/_boards/board/t/f00df255-cc52-49b0-b53f-d4668f7b70a6/Microsoft.RequirementCategory)
 
   Panorama is a project about making Azure environment observable, giving Azure users insights to deloyed resources, performance, and security. Certain KQLs are adapted from [Azure Monitor Community](https://github.com/microsoft/AzureMonitorCommunity).  
   The workbooks does not currently contain Location parameter, as workbooks and dashboard are built for the purpose of a local Goverment Commercial Cloud program where all resources are in Southeast Asia region.  
